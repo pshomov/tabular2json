@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var shellParser = require('node-shell-parser');
 
 var shellOutput = '';

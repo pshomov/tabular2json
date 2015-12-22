@@ -29,7 +29,7 @@ Go from this
 to this 
 
 ```
-➜  shell-table git:(master) ✗ ps | tanble2json 
+➜  shell-table git:(master) ✗ ps | tabular2json 
 [ { PID: '6235', TTY: 'ttys000    0:0', TIME: '1.66', CMD: '-zsh' },
   { PID: '624', TTY: 'ttys001    0:0', TIME: '0.33', CMD: '-zsh' },
   { PID: '4145', TTY: 'ttys001    0:0', TIME: '0.02', CMD: 'tmux' },
@@ -65,4 +65,4 @@ to this
 
 ### Installation
 
-``` npm install --save table2json```
+``` npm install --save tabular2json```

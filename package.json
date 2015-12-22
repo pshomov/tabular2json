@@ -1,6 +1,6 @@
 {
   "name": "tabular2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts tabular data to JSON",
   "main": "index.js",
   "repository": {

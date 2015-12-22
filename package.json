@@ -1,0 +1,22 @@
+{
+  "name": "table2json",
+  "version": "1.0.0",
+  "description": "Converts tabular data to JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pshomov/table2json.git"
+  },
+  "author": {
+    "name": "Petar Shomov",
+    "email": "pshomov@gmail.com",
+    "url": "http://twitter.com/pshomov"
+  },
+  "bin": {
+    "table2json": "./index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-shell-parser": "^0.2.1"
+  }
+}
